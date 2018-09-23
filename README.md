@@ -29,7 +29,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 18. Implement error handling for undefined variables and out-of-bound array access.
 19. When complete - all of your tests should pass. 
 
-STEPS TO RUN
+STEPS TO RUN:
 Open index.html in the browser of your choice. It may take some time to completely load as additional network requests are made. Once loaded, test results should be displayed at the bottom of the page.
 
-The online version can be seen at
+The online version can be seen at: https://github.com/divyabatchu/feedreader_test
